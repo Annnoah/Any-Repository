@@ -5,6 +5,6 @@
 3. Также мне нравятся настольные игры.
 
 **Вот такие**
-[image] (https://ir.ozone.ru/s3/multimedia-4/c1000/6482663956.jpg)
+![image](https://user-images.githubusercontent.com/93530676/220566314-4b72e0f9-755e-4f8f-9a8d-23e4dd315f59.png)
 
 **Пока!**
